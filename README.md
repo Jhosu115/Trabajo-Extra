@@ -101,9 +101,22 @@ Se prevé que en el 2050 un 85% de la población mundial viva en ciudades. Este 
 
 # 3. DESARROLLO
 
-Para iniciar con nuestra simulación vamos a iniciar descargandonos **CupCarbon**, es un simulador para smartcities y una red de sensores (WSN). Una versión gratuita del simulador está disponible en línea; el software se ha desarrollado en JAVA y no necesita instalación. Sólo tienes que descomprimir el archivo ZIP a una carpeta que prefieras y abrir el archivo “cupcarbon.jar”. Por supuesto, para eso necesita una versión de JAVA instalada.
+Para iniciar con nuestra simulación vamos a iniciar descargandonos **CupCarbon** entrando en la siguiente dirección: 
+### Link: de descarga: http://cupcarbon.com/
 
-Link: de descarga: http://cupcarbon.com/
+Nos  va a redirigir a una pestaña y debemos dar clic en "Descargar":
+
+[![imagen-2021-09-16-153027.png](https://i.postimg.cc/pdX09XWM/imagen-2021-09-16-153027.png)](https://postimg.cc/VJp9pw0K)
+
+Cuando se descargue tendremos un archivo en .rar el cual vamos a extraer y abrimos el programa
+
+[![imagen-2021-09-16-153217.png](https://i.postimg.cc/GtkP7ZLj/imagen-2021-09-16-153217.png)](https://postimg.cc/Lg8ZhQZq)
+
+[![imagen-2021-09-16-153342.png](https://i.postimg.cc/K89PH72C/imagen-2021-09-16-153342.png)](https://postimg.cc/yDZ3JZWT)
+
+Es un simulador para smartcities y una red de sensores (WSN). Una versión gratuita del simulador está disponible en línea; el software se ha desarrollado en JAVA y no necesita instalación. Sólo tienes que descomprimir el archivo ZIP a una carpeta que prefieras y abrir el archivo “cupcarbon.jar”. Por supuesto, para eso necesita una versión de JAVA instalada.
+
+
 
 ![image](https://user-images.githubusercontent.com/84430867/132935499-8f7ca10a-418a-4052-90cb-b296ae5195ff.png)
 
