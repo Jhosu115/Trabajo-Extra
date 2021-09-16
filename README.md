@@ -65,12 +65,12 @@ Las redes se pueden diseñar y crear prototipos mediante una interfaz ergonómic
 
 La interfaz gráfica de usuario (GUI) de CupCarbon se compone de las siguientes seis partes:
 
-1. El mapa (en el centro)
-2. La barra de menú (en la parte superior)
-3. La barra de herramientas (debajo del menú)
-4. El menú de parámetros (a la izquierda)
-5. La barra de estado (en la parte inferior)
-6. La consola
+1. El mapa (en el centro): Es una simulasión de una cuidad smart en las que se aplican las tecnologías de la información y de la comunicación (TIC)
+2. La barra de menú (en la parte superior): Nos va a proporcionar herramientas o propiedades, aparte de las que tenemos en la barra de herramientas y en el menú de parametros
+3. La barra de herramientas (debajo del menú): Esta contiene todas las herramientas necesarias para cada proyecto  que se requiera hacer. 
+4. El menú de parámetros (a la izquierda): Esta sirve para dar propiedades a las diferentes herramientas que hayamos elegido en la barra  de  herramientas.
+5. La barra de estado (en la parte inferior): Esta nos va a mostrar la ubicacion de cada uno de las herramientas que usemos.
+6. La consola: nos va a mostar en forma de código, el funcionamiento de la simulación.
 
 **2.2 ¿Qué es el IoT?**
 
