@@ -204,6 +204,8 @@ Incluso podemos tener nuestro **Broken** para poder realizar la conexión median
 
 # 4. VIDEO
 
+https://youtu.be/eJd35wdo1ng
+
 # 5. CONCLUSIONES
 
 - Las Redes VANET son redes inalámbricas creadas con el propósito de establecer comunicación en tiempo real entre vehículos con el fin de prevenir accidentes de tránsito y de mejorar la seguridad de los usuarios. La creación de redes Ad-Hoc Vehiculares logran una alta confiabilidad, escalabilidad y seguridad, por lo que se presenta a esta tecnología como una nueva técnica a ser estudiada.
